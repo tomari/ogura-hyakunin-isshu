@@ -1,0 +1,22 @@
+{
+  "name": "ogura-hyakunin-isshu",
+  "version": "1.0.0",
+  "description": "Structurized Ogura-Hyakunin-Isshu data",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomari/ogura-hyakunin-isshu.git"
+  },
+  "keywords": [
+    "hyakunin-isshu"
+  ],
+  "author": "Hisanobu Tomari",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/tomari/ogura-hyakunin-isshu/issues"
+  },
+  "homepage": "https://github.com/tomari/ogura-hyakunin-isshu#readme"
+}
