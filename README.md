@@ -1,6 +1,6 @@
 # ogura-hyakunin-isshu
 
-[![CircleCI](https://circleci.com/gh/tomari/ogura-hyakunin-isshu.svg?style=svg)](https://circleci.com/gh/tomari/ogura-hyakunin-isshu)
+[![pipeline status](https://gitlab.com/tomari/ogura-hyakunin-isshu/badges/master/pipeline.svg)](https://gitlab.com/tomari/ogura-hyakunin-isshu/commits/master)
 
 Ogura Hyakunin Isshu (小倉百人一首) is a classical Japanese anthology of one hundred Japanese waka by one hundred poets (see https://en.wikipedia.org/wiki/Ogura_Hyakunin_Isshu ).
 This package is a JSON structurized version of those poems and its author metadata.
