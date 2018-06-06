@@ -1,0 +1,12 @@
+image: node:8
+
+stages:
+  - test
+
+test_syntax:
+  stage: test
+  script:
+    - npm test
+  tags:
+    - docker
+
