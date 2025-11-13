@@ -1,6 +1,6 @@
 {
   "name": "ogura-hyakunin-isshu",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Structurized Ogura-Hyakunin-Isshu data",
   "main": "index.js",
   "scripts": {
